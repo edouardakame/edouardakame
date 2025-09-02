@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Edouard!
 
-<!--
-**edouardakame/edouardakame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Smart Resume Parser + Job Matcher (Full-Stack NLP + Web App) </b>
+  - Skills: Python, NLP (spaCy, BERT), REST APIs, React.js, Flask/Django, MongoDB/PostgreSQL
+- <b>Code Quality Analyzer for GitHub Repos</b>
+  - Skills: Python, static code analysis (AST, linters), GitHub API, Docker, CI/CD
+- <b>AI-Powered Personal Finance Dashboard </b>
+  - Skills: React.js, Node.js or Django, OAuth (for banks), ML (scikit-learn), Chart.js
+- <b> Collaborative Real-Time Whiteboard (Google Jamboard Clone)</b>
+  - Skills: WebSockets, Node.js/Express, Canvas API, WebRTC, MongoDB, React.js
+- <b>Open-Source Developer Portfolio Generator </b>
+  - Skills: JavaScript, TypeScript, React, Markdown parsing, GitHub GraphQL API 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
